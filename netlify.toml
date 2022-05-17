@@ -1,7 +1,0 @@
-[[redirects]]
-  from = "mattweinstein.netlify.app"
-  to = "www.mattweinsteindev.com"
-  status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
