@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "mattweinstein.netlify.app/"
-  to = "www.mattweinsteindev.com/"
+  from = "mattweinstein.netlify.app"
+  to = "www.mattweinsteindev.com"
   status = 301
   force = false
   query = {path = ":path"}
